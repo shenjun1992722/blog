@@ -3,7 +3,7 @@
 记录前端学习点滴。 
 
 ##博客地址
-所有博客均在 issues 中发布
+所有博客均在 [issues ](https://github.com/shenjun1992722/blog/issues)中发布
 
 ##关于订阅
 喜欢就点star，但是star并没有订阅博客。<br/>
